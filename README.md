@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ninjeanne
 - 👀 I’m interested in Big Data and Software Development
 - 🌱 I’m currently learning Spark and Python
-- 📫 How to reach me: Checkout my [Github Page](ninjeanne.github.io)
+- 📫 How to reach me: Checkout my [Github Page](https://ninjeanne.github.io)
